@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GraphPointFinder_Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GraphPointFinder_Game_jar</output-path>
+    <root id="archive" name="GraphPointFinder_Game.jar">
+      <element id="module-output" name="GraphPointFinder_Game" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>
