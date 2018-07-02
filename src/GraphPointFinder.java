@@ -157,7 +157,7 @@ class MakeGraphics extends JPanel{
 
         BufferedImage img = null;
         try{
-            File file = new File("/image/GraphSheet.JPG");
+            File file = new File("../image/GraphSheet.JPG");
             img = ImageIO.read(new File(file.toURI()));
         }
         catch (IOException e) {
